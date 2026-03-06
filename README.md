@@ -5,7 +5,7 @@
 [![Flask](https://img.shields.io/badge/Framework-Flask-black.svg)](https://flask.palletsprojects.com/)
 
 #### 📌 About the Project
-This repository contains a complete Data Science project developed under the "Paradigmas de Aprendizagem Automática" course. Following the CRISP-DM (Cross Industry Standard Process for Data Mining) methodology, we analyzed an Airbnb New York City dataset to extract actionable insights for hosts and investors.
+This repository contains a complete Data Science project developed under the "Paradigmas de Aprendizagem Automática" (Machine Learning Paradigms) course as part of the Data Science Bachelor's program at the University of Minho. Following the CRISP-DM (Cross Industry Standard Process for Data Mining) methodology, we analyzed an Airbnb New York City dataset to extract actionable insights for hosts and investors.
 
 The project tackles three main machine learning challenges:
 1. **Regression:** Predicting the price per night of a property.
@@ -89,8 +89,8 @@ airbnb-nyc-prediction/
 
 ````
 #### Authors
+* Dean Kuijf
 * Francisca Machado | [GitHub](https://github.com/francisca-sa/)
-*  Dean Kuijf
-*  Gabriela Durães
+* Gabriela Durães
 
-_Project developed for the Data Science Bachelor's program at the University of Minho._
+_Project developed for the Data Science Bachelor's program at the University of Minho (2024/2025)._
